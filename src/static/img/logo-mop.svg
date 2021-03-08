@@ -1,0 +1,39 @@
+<svg width="461.52533" height="380.69333" xmlns="http://www.w3.org/2000/svg">
+ <metadata id="metadata8">image/svg+xml</metadata>
+ <defs>
+  <clipPath clipPathUnits="userSpaceOnUse" id="clipPath18">
+   <path d="m5,282.52l346.144,0l0,-285.52l-346.144,0l0,285.52z" id="path16"/>
+  </clipPath>
+  <clipPath clipPathUnits="userSpaceOnUse" id="clipPath82">
+   <path d="m0,285.52l346.144,0l0,-285.52l-346.144,0l0,285.52z" id="path80"/>
+  </clipPath>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="514.80593" height="424.9926" id="canvas_background" fill="none"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="g120" stroke="null" transform="matrix(1.3333333,0,0,-1.3333333,0,380.69333) "/>
+  <g stroke="null" id="g92" transform="matrix(3.5104429098706675,0,0,-3.5104429098706675,-400.5608401658046,697.3148505277356) ">
+   <path stroke="#9061f9" d="m201.61277,106.42047c-1.249,-5.412 -5.818,-8.326 -10.714,-8.415c-9.287,-1.953 -14.997,0.575 -18.475,4.054c-16.9,5.402 -14.541,28.614 1.645,30.547l9.079,0c20.814,-5.213 -6.334,-27.048 18.465,-26.186z" id="path94" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" fill="none"/>
+  </g>
+  <g stroke="null" id="g96" transform="matrix(3.5104429098706675,0,0,-3.5104429098706675,-400.5608401658046,697.3148505277356) ">
+   <path stroke="#9061f9" d="m172.44276,102.04936c-0.01,0 -0.01,0 -0.02,0.01" id="path98" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" fill="none"/>
+  </g>
+  <g stroke="null" id="g100" transform="matrix(3.5104429098706675,0,0,-3.5104429098706675,-400.5608401658046,697.3148505277356) ">
+   <path stroke="#9061f9" d="m181.27386,102.03967c2.686,-2.785 6.234,-4.094 9.625,-4.034" id="path102" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" fill="none"/>
+  </g>
+  <g stroke="null" id="g104" transform="matrix(3.5104429098706675,0,0,-3.5104429098706675,-400.5608401658046,697.3148505277356) ">
+   <path stroke="#9061f9" d="m172.42326,102.05915c-4.56,4.56 -5.313,10.774 -5.313,10.774" id="path106" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" fill="none"/>
+  </g>
+  <path stroke="#9061f9" d="m242.36893,231.80745l-31.8713,0l0,-16.10943l31.8713,0l0,16.10943z" id="path108" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="5" fill="none"/>
+  <path stroke="#9061f9" d="m234.65999,99.22505l-16.45697,0l0,116.473l16.45697,0l0,-116.473z" id="path110" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="4.5" fill="none"/>
+  <g stroke="null" id="g112" transform="matrix(3.5104429098706675,0,0,-3.5104429098706675,-400.5608401658046,697.3148505277356) ">
+   <path stroke="#9061f9" d="m182.31486,189.61776l0,-19.248l-7.414,0l0,19.248c0,2.052 1.655,3.707 3.707,3.707c1.021,0 1.953,-0.416 2.626,-1.08c0.664,-0.674 1.081,-1.596 1.081,-2.627z" id="path114" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" fill="none"/>
+  </g>
+  <g stroke="null" id="g116" transform="matrix(3.5104429098706675,0,0,-3.5104429098706675,-400.5608401658046,697.3148505277356) ">
+   <path stroke="#9061f9" d="m145.83486,97.32476l70.736,0" id="path118" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" fill="none"/>
+  </g>
+ </g>
+</svg>

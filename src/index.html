@@ -1,22 +1,54 @@
 ---
 layout: default
-title: Neat Starter
+title: MoneyMop
 path: home
 ---
 
 <div class="container mx-auto lg:h-screen flex flex-col justify-center items-center">
   <h1>
-    Welcome to
+    We Are
     <strong class="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-purple-500">
       {{title}}
     </strong>
   </h1>
 
   <p>
-    <abbr title="netlify cms, eleventy, alpine js & tailwind css">NEAT</abbr>
-    Starter Template. Get Started by editing.
-    <code class="bg-gray-100 text-blue-800 p-1">/index.njk</code>
+    A powerful budgeting app in a simple package.
   </p>
 
+  <ul class="list-disc space-y-2 p-10">
+    <li class="flex items-start">
+      <span class="h-6 flex items-center sm:h-7">
+        <svg class="flex-shrink-0 h-5 w-5 text-cyan-500" viewBox="0 0 20 20" fill="currentColor">
+          <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
+        </svg>
+      </span>
+      <p class="ml-2">
+        Connect all your <span class="font-bold text-gray-900">bank and credit card accounts</span>
+      </p>
+    </li>
+    <li class="flex items-start">
+      <span class="h-6 flex items-center sm:h-7">
+        <svg class="flex-shrink-0 h-5 w-5 text-cyan-500" viewBox="0 0 20 20" fill="currentColor">
+          <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
+        </svg>
+      </span>
+      <p class="ml-2">
+        Add <span class="font-bold text-gray-900">family members</span> to your account
+      </p>
+    </li>
+    <li class="flex items-start">
+      <span class="h-6 flex items-center sm:h-7">
+        <svg class="flex-shrink-0 h-5 w-5 text-cyan-500" viewBox="0 0 20 20" fill="currentColor">
+          <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
+        </svg>
+      </span>
+      <p class="ml-2"><span class="font-bold text-gray-900">Track and review</span> all your spending</p>
+    </li>
+  </ul>  
+
   {% include "./_includes/partials/content.html" %}
+
+
+  <div class="w-1/2" ><img src="/static/img/ipad.png"></div>
 </div>
