@@ -4,5 +4,5 @@ links:
     url: "https://moneymop.hubspotpagebuilder.com/private-beta"
     desc: Request access to our private beta
   - title: Login
-    url: "https://my.moneymop.app/"
+    url: "https://my.moneymop.app/login"
     desc: Welcome back!
